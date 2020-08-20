@@ -482,9 +482,6 @@ Notice the <TCEforms> tags:
 .. code-block:: xml
 
     <T3DataStructure>
-        <meta>
-            <langDisable>1</langDisable>
-        </meta>
         <sheets>
             <sDEF>
                 <ROOT>
@@ -556,9 +553,6 @@ table. In the second sheet, we add a simple input field and a text field.
 .. code-block:: xml
 
     <T3DataStructure>
-        <meta>
-            <langDisable>1</langDisable>
-        </meta>
         <sheets>
             <sDEF>
                 <ROOT>
